@@ -5,11 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a 2nd year student of B.E Electronics and communication Engineering. I really have an interest to learn new things and looking forward to it.
+I am a 3rd year student of B.E Electronics and communication Engineering. I really have an interest to learn new things and looking forward to it.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [varshinikasiliya@gmail.com](mailto:varshinikasiliya@gmail.com)
-* 🧠  I'm learning Blockchain Technology
+* 🧠  I'm learning full stack development and core concepts
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have Superpowers...Don't tell anyone
 
